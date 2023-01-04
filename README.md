@@ -1,6 +1,6 @@
 # go-stopwatch
-
-![workflow](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+![workflow](https://github.com/steeringwaves/go-stopwatch/actions/workflows/test.yml/badge.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/steeringwaves/go-stopwatch.svg)](https://pkg.go.dev/github.com/steeringwaves/go-stopwatch)
 
 ## usage
 
